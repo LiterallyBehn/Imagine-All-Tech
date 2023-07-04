@@ -4,12 +4,12 @@ Imagine-All-Tech is a website that functions as a hub for a group of technology 
 
 ### Key Features
 
-- **Easy and fast navigation**: The site features intuitive and fast navigation, allowing visitors to easily find group members and access their portfolios``.
+- **Easy and fast navigation**: The site features intuitive and fast navigation, allowing visitors to easily find group members and access their portfolios.
 - **Attractive and professional design**: The site design is clean and attractive, using appropriate use of white space, legible fonts and strategically selected colors.
 - **Quality content**: The site presents relevant and up-to-date information about the group's members, including their skills, experience and accomplishments.
 - **"Meet the Team" page**: The "Meet the Team" page presents the group members in a visually appealing and accessible way, providing personal and professional information about each of them.
 - **Individual portfolios**: Each group member has their own online portfolio, which shows their projects and achievements in a detailed and attractive way.
-- **Search engine optimization**: The site is optimized to appear in Google search results and other search engines, making it easier for visitors to find the site and members' portfolios.
+- **Search engine optimization**: The site is optimized to appear in Google search results and other search engines, making it easier for visitors to find the site and members portfolios.
 
 ### How to keep the site updated and attractive.
 
