@@ -152,7 +152,6 @@ body {
     background: #3C2A21;
     margin-left: 20px;
     margin-right: 20px;
-    margin-top: 80px;
   }
 
   .text-container {
@@ -328,15 +327,17 @@ body {
   /* CSS Styles for Laptops */
   main {
     grid-template-columns: repeat(2, 2fr);
+    margin-bottom: 40px;
+    height: 100vh;
   }
 
   .svg-container {
-    width: calc(223.712px * 1.3 * 1.3);
-    height: calc(141.008px * 1.3 * 1.3);
+    width: calc(223.712px * 1.3);
+    height: calc(141.008px * 1.3);
   }
 
   .hyperlink {
-    font-size: calc(18px * 1.3 * 1.3);
+    font-size: calc(18px * 1.3);
   }
 
   .rectangle {
@@ -389,46 +390,48 @@ body {
   /* CSS Styles for Desktops */
   main {
     grid-template-columns: repeat(2, 2fr);
+    margin-bottom: 40px;
+    height: 100vh;
   }
 
   .svg-container {
-    width: calc(223.712px * 1.3 * 1.3 * 1.3);
-    height: calc(141.008px * 1.3 * 1.3 * 1.3);
+    width: calc(223.712px * 1.3 * 1.3);
+    height: calc(141.008px * 1.3 * 1.3);
   }
 
   .hyperlink {
-    font-size: calc(18px * 1.3 * 1.3 * 1.3);
+    font-size: calc(18px * 1.3 * 1.3);
   }
 
   .rectangle {
-    width: calc(320px * 1.2 * 1.2);
-    height: calc(320px * 1.2 * 1.2);
+    width: calc(320px * 1.2 * 1.1);
+    height: calc(320px * 1.2 * 1.1);
   }
 
   .profile-image {
-    width: calc(100px * 1.2 * 1.2);
-    height: calc(100px * 1.2 * 1.2);
+    width: calc(100px * 1.2 * 1.1);
+    height: calc(100px * 1.2 * 1.1);
   }
 
   .name {
-    font-size: calc(28px * 1.2 * 1.2);
+    font-size: calc(28px * 1.2 * 1.1);
   }
 
   .position {
-    font-size: calc(16px * 1.2 * 1.2);
+    font-size: calc(16px * 1.2 * 1.1);
   }
 
   .description {
-    font-size: calc(12px * 1.2 * 1.2);
+    font-size: calc(12px * 1.2 * 1.1);
   }
 
   .cta-rectangle {
-    width: calc(200px * 1.2 * 1.2);
-    height: calc(50px * 1.2 * 1.2);
+    width: calc(200px * 1.2 * 1.1);
+    height: calc(50px * 1.2 * 1.1);
   }
 
   .cta-text {
-    font-size: calc(12px * 1.2 * 1.2);
+    font-size: calc(12px * 1.2 * 1.1);
   }
 
   .text-left {
@@ -450,6 +453,8 @@ body {
   /* CSS Styles for TVs */
   main {
     grid-template-columns: repeat(2, 2fr);
+    margin-bottom: 40px;
+    height: 100vh;
   }
 
   .svg-container {
@@ -462,34 +467,34 @@ body {
   }
 
   .rectangle {
-    width: calc(320px * 1.2 * 1.2);
-    height: calc(320px * 1.5);
+    width: calc(320px * 1.2 * 1.4);
+    height: calc(320px * 1.2 * 1.4);
   }
 
   .profile-image {
-    width: calc(100px * 1.2 * 1.2);
-    height: calc(100px * 1.2 * 1.2);
+    width: calc(100px * 1.2 * 1.4);
+    height: calc(100px * 1.2 * 1.4);
   }
 
   .name {
-    font-size: calc(28px * 1.2 * 1.2);
+    font-size: calc(28px * 1.2 * 1.4);
   }
 
   .position {
-    font-size: calc(16px * 1.2 * 1.2);
+    font-size: calc(16px * 1.2 * 1.4);
   }
 
   .description {
-    font-size: calc(12px * 1.2 * 1.2);
+    font-size: calc(12px * 1.2 * 1.4);
   }
 
   .cta-rectangle {
-    width: calc(200px * 1.2 * 1.2);
-    height: calc(50px * 1.2 * 1.2);
+    width: calc(200px * 1.2 * 1.4);
+    height: calc(50px * 1.2 * 1.4);
   }
 
   .cta-text {
-    font-size: calc(12px * 1.2 * 1.2);
+    font-size: calc(12px * 1.2 * 1.4);
   }
 
   .text-left {
